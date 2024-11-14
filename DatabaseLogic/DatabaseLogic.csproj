@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\TransactionLibrary-13-11-2024\Homework2Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Homework2Library">
       <HintPath>..\..\Homework2Library\bin\Debug\net7.0\Homework2Library.dll</HintPath>
     </Reference>

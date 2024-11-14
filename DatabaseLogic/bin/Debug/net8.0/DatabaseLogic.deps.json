@@ -10,7 +10,7 @@
         "dependencies": {
           "FirebaseAdmin": "3.0.1",
           "Google.Cloud.Firestore": "3.9.0",
-          "Homework2Library": "1.0.0.0"
+          "Homework2Library": "1.0.0"
         },
         "runtime": {
           "DatabaseLogic.dll": {}
@@ -294,10 +294,14 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
-      "Homework2Library/1.0.0.0": {
+      "Homework2Library/1.0.0": {
+        "dependencies": {
+          "FirebaseAdmin": "3.0.1",
+          "Google.Cloud.Firestore": "3.9.0"
+        },
         "runtime": {
           "Homework2Library.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -499,8 +503,8 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
-    "Homework2Library/1.0.0.0": {
-      "type": "reference",
+    "Homework2Library/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

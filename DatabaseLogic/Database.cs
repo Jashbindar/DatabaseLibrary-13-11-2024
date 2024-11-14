@@ -6,7 +6,7 @@ namespace DatabaseLogic
 {
     public class DatabaseAccountrix
     {
-        private const string firebase_key = "homework3-bbd99";
+        private const string firebase_key = "test1-1f0a6";
         private FirestoreDb database;
         
         //temporary lists are created to store newly retrieved data from Firebase
@@ -33,7 +33,7 @@ namespace DatabaseLogic
         public async Task saveTransaction(UserTransaction a_user_transaction)
         {
             CollectionReference collectionRef = database.Collection("user_transactions");
-            DocumentReference docRef = collectionRef.Document(DateTime.Now.Ticks.ToString()); //DateTime.Now.Ticks.ToString() is used because it has near perfect unique ID
+            DocumentReference docRef = collectionRef.Document(a_user_transaction.transaction_id); //DateTime.Now.Ticks.ToString() is used because it has near perfect unique ID
             Dictionary<string, object> transaction_data = new Dictionary<string, object>
             {
                 {"TransactionReason", a_user_transaction.getTransactionReason()},
@@ -222,7 +222,7 @@ namespace DatabaseLogic
             CollectionReference collectionRef = database.Collection("user_transactions");
             DocumentReference docRef = collectionRef.Document(docID);
 
-            Console.WriteLine("Transaction with ID: {0} has been deleted", docRef.Id);
+            Console.WriteLine("Transaction with ID: {0} has been deleted", docID);
             await docRef.DeleteAsync();
         }
         //delete user data => usually used for updating settings

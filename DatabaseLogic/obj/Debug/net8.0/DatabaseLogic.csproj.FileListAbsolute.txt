@@ -13,3 +13,19 @@ C:\Users\User\Desktop\Programming\OOP\Homework3Library\DatabaseLogic\obj\Debug\n
 C:\Users\User\Desktop\Programming\OOP\Homework3Library\DatabaseLogic\obj\Debug\net8.0\refint\DatabaseLogic.dll
 C:\Users\User\Desktop\Programming\OOP\Homework3Library\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.pdb
 C:\Users\User\Desktop\Programming\OOP\Homework3Library\DatabaseLogic\obj\Debug\net8.0\ref\DatabaseLogic.dll
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.csproj.AssemblyReference.cache
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.AssemblyInfoInputs.cache
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.AssemblyInfo.cs
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.csproj.CoreCompileInputs.cache
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.sourcelink.json
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.dll
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\refint\DatabaseLogic.dll
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\DatabaseLogic.pdb
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\bin\Debug\net8.0\DatabaseLogic.deps.json
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\bin\Debug\net8.0\DatabaseLogic.dll
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\bin\Debug\net8.0\DatabaseLogic.pdb
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\bin\Debug\net8.0\Homework2Library.dll
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\bin\Debug\net8.0\Homework2Library.pdb
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\Database.7DC90D8D.Up2Date
+C:\Users\jash\Desktop\New folder\DatabaseLibrary-13-11-2024\DatabaseLogic\obj\Debug\net8.0\ref\DatabaseLogic.dll
