@@ -55,7 +55,7 @@ namespace DatabaseLogic
         public async Task saveAsset(Item a_user_asset)
         {
             CollectionReference collectionRef = database.Collection("user_items");
-            DocumentReference docRef = collectionRef.Document(DateTime.Now.Ticks.ToString());
+            DocumentReference docRef = collectionRef.Document(a_user_asset.itemID);
             Dictionary<string, object> items = new Dictionary<string, object>
             {
                 {"Item ID", a_user_asset.getItemID()},
